@@ -12,5 +12,5 @@ The fully connected layer was deleted in Version8.ipynb and the convolutional la
 
 
 
-openpose-pytorch.ipynb
+openpose-pytorch.ipynb  
 openpose-pytorch.ipynb provides code for openpose detection of normal images and image saving based on the detected bone key points.
