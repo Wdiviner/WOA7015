@@ -17,3 +17,8 @@ The fully connected layer was deleted in **Version8**.ipynb and the convolutiona
 
 openpose-pytorch.ipynb  
 openpose-pytorch.ipynb provides code for openpose detection of normal images and image saving based on the detected bone key points.
+![image](https://github.com/Wdiviner/WOA7015/assets/46164563/d3cc1edd-8cab-4198-882b-128108a4da4b)
+
+
+A simple attempt was made on **3D convolution**, but unfortunately the effect was not good. The original version link is:   
+https://www.kaggle.com/code/junyang680/3dcnn-woa7015/notebook  
