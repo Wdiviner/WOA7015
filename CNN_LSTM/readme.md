@@ -27,4 +27,4 @@ https://www.kaggle.com/code/junyang680/3dcnn-woa7015/notebook
 Data on kaggle can be obtained from colab and the local environment for training.    
 The code is as shown in **Colab_Version**.ipynb. The original link is:   
 https://colab.research.google.com/drive/1HF7G-i8zvfIa_VCZDmIw2jjx7RzXMQm9?usp=sharing  
-**Ps**: The kaggle.json file is necessary. To obtain it, please refer to https://www.kaggle.com/docs/api  
+**Ps**: The **kaggle.json** file is necessary. To obtain it, please refer to https://www.kaggle.com/docs/api  
